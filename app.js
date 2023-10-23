@@ -1,0 +1,1 @@
+alert("If viewing from android , pls enable desktop site , else ignore this message")
